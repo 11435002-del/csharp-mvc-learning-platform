@@ -1,2 +1,21 @@
-# csharp-mvc-learning-platform
-ASP.NET MVC learning and auto grading platform project
+# 軟丙軟乙學習平台
+
+使用 C# 與 ASP.NET MVC 開發之術科自動評分平台。
+
+## 使用技術
+- C#
+- ASP.NET MVC
+- SQL Server
+- Open XML SDK
+
+## 功能特色
+- Word 文件自動評分
+- 圖片位置與大小判斷
+- 錯誤註解輸出
+- 成績統計分析
+
+## 負責內容
+- 圖片位置判斷邏輯
+- 功能測試
+- 系統功能開發
+- 團隊協作與需求整理
