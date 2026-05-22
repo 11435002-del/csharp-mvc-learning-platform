@@ -29,3 +29,9 @@
 
 ## 錯誤註解畫面
 <img width="975" height="738" alt="錯誤註解畫面" src="https://github.com/user-attachments/assets/9ebcb203-9c8c-4952-beb6-4a8cc1c6f25a" />
+
+## 實習經驗
+於艾訊資訊股份有限公司擔任軟體開發實習生，參與 C# MVC 系統功能開發、需求整理、功能測試與問題追蹤，並與主管及團隊成員協作完成專案開發流程。
+
+## 系統畫面
+<img width="1148" height="522" alt="艾訊專案系統截圖" src="https://github.com/user-attachments/assets/f8e25000-9c25-42ef-b69f-39bac3da20f4" />
